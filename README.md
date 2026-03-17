@@ -31,10 +31,10 @@ Without this skill, Manus types into Claude Code blindly. With it, Manus follows
 
 ```bash
 # Option 1: npx skills (recommended)
-npx skills add kazuya-hibara/manus-claude-orchestrator
+npx skills add kazu171/manus-claude-orchestrator
 
 # Option 2: Manual
-git clone https://github.com/kazuya-hibara/manus-claude-orchestrator.git ~/.agents/skills/manus-orchestrator
+git clone https://github.com/kazu171/manus-claude-orchestrator.git ~/.agents/skills/manus-orchestrator
 ```
 
 ## Quick Start (5 min)
@@ -133,4 +133,4 @@ See [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ---
 
-Built by [@kazuya-hibara](https://github.com/kazuya-hibara) | [Get Manus Desktop](https://manus.im/invitation/LM102IK4RRBDDY)
+Built by [@kazu171](https://github.com/kazuya-hibara) | [Get Manus Desktop](https://manus.im/invitation/LM102IK4RRBDDY)

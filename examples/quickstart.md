@@ -7,12 +7,12 @@ If you don't have Manus yet, [get access here](https://manus.im/invitation/LM102
 ## Step 2: Install the Skill
 
 ```bash
-npx skills add kazuya-hibara/manus-claude-orchestrator
+npx skills add kazu171/manus-claude-orchestrator
 ```
 
 Or clone manually:
 ```bash
-git clone https://github.com/kazuya-hibara/manus-claude-orchestrator.git ~/.agents/skills/manus-orchestrator
+git clone https://github.com/kazu171/manus-claude-orchestrator.git ~/.agents/skills/manus-orchestrator
 ```
 
 ## Step 3: Configure Manus

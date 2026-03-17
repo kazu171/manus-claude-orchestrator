@@ -31,10 +31,10 @@ Manus Desktop の「My Computer」機能はターミナルを操作できます 
 
 ```bash
 # 方法 1: npx skills（推奨）
-npx skills add kazuya-hibara/manus-claude-orchestrator
+npx skills add kazu171/manus-claude-orchestrator
 
 # 方法 2: 手動
-git clone https://github.com/kazuya-hibara/manus-claude-orchestrator.git ~/.agents/skills/manus-orchestrator
+git clone https://github.com/kazu171/manus-claude-orchestrator.git ~/.agents/skills/manus-orchestrator
 ```
 
 ## クイックスタート（5 分）
@@ -69,4 +69,4 @@ git clone https://github.com/kazuya-hibara/manus-claude-orchestrator.git ~/.agen
 
 ---
 
-Built by [@kazuya-hibara](https://github.com/kazuya-hibara) | [Manus Desktop を入手](https://manus.im/invitation/LM102IK4RRBDDY)
+Built by [@kazu171](https://github.com/kazuya-hibara) | [Manus Desktop を入手](https://manus.im/invitation/LM102IK4RRBDDY)
